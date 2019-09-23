@@ -6,12 +6,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "",
-    authDomain: "",
-    databaseURL: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: ""
+  apiKey: "AIzaSyCT4cHgFQ36h11HFk9rGG0ddrMw7Ag2Fhg",
+  authDomain: "angularfirebasetemplate.firebaseapp.com",
+  databaseURL: "https://angularfirebasetemplate.firebaseio.com",
+  projectId: "angularfirebasetemplate",
+  storageBucket: "",
+  messagingSenderId: "71787555043",
+  appId: "1:71787555043:web:79036c2036f51087ecbdd6"
   }
 };
