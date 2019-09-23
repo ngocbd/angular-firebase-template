@@ -13,7 +13,7 @@ Clone this repository
 
 Run `npm install` to install all the required dependencies
 
-Edit file ./src/environments/environments.ts for firebbase config. Config for firebase project can be found in Firebase console web app
+Edit file ./src/environments/environments.ts for firebase config. Config for firebase project can be found in Firebase console web app
 
 
 Then run `ng serve` to start a dev server.
