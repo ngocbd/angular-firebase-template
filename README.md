@@ -5,6 +5,10 @@ This project is perfect template for angular 8 and firebase include : FirebaseAu
 
 **Please support this project by simply putting a Github star ⭐. Share this repo with friends on Twitter and everywhere else you can. 🙏 Thanks**
 
+## Requirement
+
+Nodejs 10+
+
 ## Installation
 
 Clone this repository 
