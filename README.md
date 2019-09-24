@@ -8,6 +8,9 @@ This project is perfect template for angular 8 and firebase include : FirebaseAu
 ## Requirement
 
 Nodejs 10+
+https://nodejs.org/en/download/
+Angular Cli 8+
+https://www.npmjs.com/package/@angular/cli
 
 ## Installation
 
